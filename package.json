@@ -1,0 +1,29 @@
+{
+  "name": "Simple-backend-Task-oops",
+  "version": "1.0.0",
+  "description": "* Read the users from the xml, csv and json files within the `data` directory.\r * Merge all users into a single list and sort them by their `userId` in ascending order.\r * Write the ordered results to new xml, csv and json files. See the `examples` directory for examples.\r   * Results should use the same structure as the source files they were parsed from.\r   * The exception is for `lastLoginTime` where an `ISO 8601` date format is preferred for output.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YugalXD/Simple-backend-Task-oops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YugalXD/Simple-backend-Task-oops/issues"
+  },
+  "homepage": "https://github.com/YugalXD/Simple-backend-Task-oops#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "xml-js": "^1.6.11",
+    "xml2json": "^0.12.0"
+  }
+}

@@ -1,0 +1,10 @@
+Skipped:
+
+1. Converting and pushing data to ./examples/users.csv [Reason: Time limit]
+2. Converting and pushing data to ./examples/users.xml [Reason: Time limit]
+
+I would have also considered adding the following:-
+
+1. Implementing logic for promises[to write to files] seperately
+2. Adding more comments
+3. Segragating logic in separate files
