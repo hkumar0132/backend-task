@@ -5,6 +5,7 @@ Skipped:
 
 I would have also considered adding the following:-
 
-1. Implementing logic for promises[to write to files] seperately
-2. Adding more comments
-3. Segragating logic in separate files
+1. Class programming in JS
+2. Implementing logic for promises[to write to files] seperately
+3. Adding more comments
+4. Segragating logic in separate files

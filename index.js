@@ -67,7 +67,7 @@ const promise2 = new Promise((resolve, reject) => {
 
 
 // Merging data
-function mergeData(csvData, jsonData, ) {
+function mergeData(jsonData, csvData, xmlData) {
 
   let mergedData = [];
   jsonData.map(data => {
